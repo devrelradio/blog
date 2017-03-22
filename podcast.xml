@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>DevRel Radio</title>
+    <link>http://devrelrad.io/</link>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Tim Berglund</itunes:author>
+    <itunes:summary>A podcast for Developer Relations professionals</itunes:summary>
+    <itunes:owner>
+      <itunes:name>DevRel Radio</itunes:name>
+      <itunes:email>devrelradio@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://devrelrad.io" />
+    <itunes:category text="Technology">
+      <itunes:category text="Technology" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <language>en-us</language>
+    
+    <item>
+      <title>Online Panel: What is DevRel?</title>
+      <description> On a brisk January morning in Silicon Valley, Tim Berglund and Baruch Sadugorsky got on a video call with Ted Neward, Simon Maple, and Viktor Gamov. We kicked off a new podcast with a panel discussion about the nature of developer relations.
+This is not so much a highly produced podcast as it is a recording of a jam session between some friends who are passionate about training, developer advocacy, and community. It’s like the prequel to the podcast that will be. And with the people on the call, that is worth something.
+Here is that meeting:
+
+ </description>
+      <itunes:author> Tim Berglund</itunes:author>
+      <itunes:subtitle> </itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="https://devrelrad.io" />
+      <enclosure url="https://devrelrad.iohttps://soundcloud.com/user-505516226/devrelradio-february-2017-panel" length="36940539" type=""/>
+      <guid></guid>
+      <pubDate>Sun, 05 Mar 2017 23:51:54 GMT</pubDate>
+      <itunes:duration>3694</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+  </channel>
+</rss>
