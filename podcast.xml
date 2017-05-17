@@ -19,25 +19,7 @@
     <language>en-us</language>
     
     <item>
-      <title>February 2017 Panel Discussion</title>
-      <description> In February, Baruch and Tim got together with Simon Maple, Ted Neward, Viktor Gamov, and James Ward to again share our thoughts about the profession. Of particular interest was the relationship of DevRel to marketing—a topic on which the panel was…divided.
-
- </description>
-      <itunes:author> Tim Berglund</itunes:author>
-      <itunes:subtitle> </itunes:subtitle>
-      <itunes:summary>  </itunes:summary>
-      <itunes:image href="https://devrelrad.io" />
-      <enclosure url="https://devrelrad.iohttps://soundcloud.com/user-505516226/devrelradio-february-2017-panel" length="37030400" type=""/>
-      <guid></guid>
-      <pubDate>Wed, 22 Mar 2017 17:46:58 GMT</pubDate>
-      <itunes:duration>3703</itunes:duration>
-      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
-        
-      </psc:chapters>
-    </item>
-    
-    <item>
-      <title>Online Panel: What is DevRel?</title>
+      <title>S01E01: Online Panel: What is DevRel?</title>
       <description> On a brisk January morning in Silicon Valley, Tim Berglund and Baruch Sadugorsky got on a video call with Ted Neward, Simon Maple, and Viktor Gamov. We kicked off a new podcast with a panel discussion about the nature of developer relations.
 This is not so much a highly produced podcast as it is a recording of a jam session between some friends who are passionate about training, developer advocacy, and community. It’s like the prequel to the podcast that will be. And with the people on the call, that is worth something.
 Here is that meeting:
